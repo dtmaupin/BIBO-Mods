@@ -6,19 +6,37 @@ http://a.co/3Wp1WXl - Gizmodorks Film PET Tape 10pack ($15.99)
 
 http://a.co/7Fn8vE3 - 3M 468 MP Transfer Tape
 
-The Ultrabase bed comes with a new platform, springs, etc, as well as fantastic bevel cut glass that has an abomination of a printing surface on one side.  However its still the best deal for all the parts so before use take some acetone or GooGone and soak the double sided backing on it to remove it.  We will use the back side of the glass.
+The Ultrabase bed comes with a new platform, springs, etc, as well as fantastic bevel cut glass that has
+an abomination of a printing surface on one side.  However its still the best deal for all the parts so
+before use take some acetone or GooGone and soak the double sided backing on it to remove it.  We will 
+use the back side of the glass.
 
-After removing the backing remove your old bed from the black frame and detatch the wiring from the board.  using your new bed mark and drill the two new holes in the back of the black frame.  Its important that these be measured well and centered.
+After removing the backing remove your old bed from the black frame and detatch the wiring from the board.
+using your new bed mark and drill the two new holes in the back of the black frame.  Its important that
+these be measured well and centered.
 
-Assemble the 4 bed support posts per the instructions.  Wire in the new bed where the old one attached and slip the springs on the posts.  Carefully set the posts down in your four holes.  Then using the brass knobs tighten the bed part of the way down.  IMPORTANT: The edge back two knobs will sit on the lip of the bed frame. This is normal, don't bend your bolts trying to clear the frame.
+Assemble the 4 bed support posts per the instructions.  Wire in the new bed where the old one attached 
+and slip the springs on the posts.  Carefully set the posts down in your four holes.  Then using the brass
+knobs tighten the bed part of the way down.  IMPORTANT: The edge back two knobs will sit on the lip of 
+the  bed frame. This is normal, don't bend your bolts trying to clear the frame.
 
-On top of the new bed platform place evenly spaced strips of the 3M 468MP tape.  I use 1" strip 1" gap but its not really critical.  Just make sure the tape is flat and bubble free.  (You can skip this step and use Swiss clips or binder clips but I don't recommend it.  You don't need a removable bed with PET)
+On top of the new bed platform place evenly spaced strips of the 3M 468MP tape.  I use 1" strip 1" gap but
+its not really critical.  Just make sure the tape is flat and bubble free.  (You can skip this step and 
+use Swiss clips or binder clips but I don't recommend it.  You don't need a removable bed with PET)
 
-Before you lay your glass on the tape we just put down it will probably be easier for you to put your PET on the smooth side of your glass for the first time out of the printer.  Clean the glass well and then soak it with a mister bottle of water that has a single drop of Dawn handsoap in it.  Peel the backing from the PET film and "float" it on the water.  Then using a decal application squeege remove the water and all air bubbles from the PET starting from the center.  Onces its appled bubble free and had a chance to set, trim the edges.  
+Before you lay your glass on the tape we just put down it will probably be easier for you to put your PET 
+on the smooth side of your glass for the first time out of the printer.  Clean the glass well and then soak
+it with a mister bottle of water that has a single drop of Dawn handsoap in it.  Peel the backing from the
+PET film and "float" it on the water.  Then using a decal application squeege remove the water and all 
+air bubbles from the PET starting from the center.  Onces its appled bubble free and had a chance to set,
+trim the edges.  
 
-Finally peel the backing from the 3M 468MP on the bed platform and then carefully lay the glass on the tape nice and centered.  Set heat for 50C for 20-30 minutes watching for any bubbles to come up in the PET and squeege them out as they do.  
+Finally peel the backing from the 3M 468MP on the bed platform and then carefully lay the glass on the tape
+nice and centered.  Set heat for 50C for 20-30 minutes watching for any bubbles to come up in the PET and 
+squeege them out as they do.  
 
 Congratuations you now have a 4 point leveling bed that is FAR FAR better than the stock one.
+
 
 
 
